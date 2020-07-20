@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a>
-    <img alt="Github Explore" title="Github Explore" src=".github/logo.svg" width="450">
+    <img alt="Github Explore" title="Github Explorer" src=".github/logo.svg" width="450">
   </a>
 </p>
 

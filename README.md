@@ -21,13 +21,13 @@
 
 ## Installation
 
-First of all, you may clone this repo 
+Clone this repo 
 
 ```
   git clone https://github.com/freeitas/github-explorer.git
 ```
 
-Run the following scripts in order to execute the application in development mode 
+Run the scripts to execute the application in development mode 
 
 ```
   // Install the dependencies

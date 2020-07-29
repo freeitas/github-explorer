@@ -37,6 +37,3 @@ Run the scripts to execute the application in development mode
   // yarn start
 ```
 
-
-
-Thanks to [Rocketseat](https://rocketseat.com.br/). 

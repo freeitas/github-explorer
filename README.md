@@ -34,6 +34,6 @@ Run the scripts to execute the application in development mode
   yarn install
   
   // Start the application
-  // yarn start
+  yarn start
 ```
 
